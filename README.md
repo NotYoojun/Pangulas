@@ -48,6 +48,8 @@ When using English brackets and quotation marks, a space should be added outside
 
 - Spaces for ` " ' ` should be added outside the content being wrapped (since English quotes cannot distinguish between opening and closing, the author needs to judge for themselves)
 
+In some cases, `【】` and `「」` are allowed, and no spaces should be added before or after them.
+
 If this description is not clear enough, you can refer to the examples below. First, replace all Chinese brackets and quotation marks with English brackets and quotation marks:
 
 ```csharp
