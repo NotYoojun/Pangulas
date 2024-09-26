@@ -29,8 +29,8 @@ The table below summarizes when to use spaces. Of course, this rule is only a re
 | Chinese and numbers | Space required | 今天 20 摄氏度
 | English and numbers | Space required | 最近更新了 iOS 13.5 版本的系统
 | Numbers and units | Space required | 香蕉 1.99 美元一磅
+| Date | Space required | 今天是 2020 年 1 月 1 日
 | Numbers and percentages | No space required | 谷歌浏览器市场占比高达 58.4% 了
-| Date | No space required | 今天是 2020 年 1 月 1 日
 | Full-width punctuation and characters | No space required | 喂！你在干什么？！
 | Ellipsis | No space required | 这...有问题吗
 
